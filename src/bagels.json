@@ -1,0 +1,33 @@
+ 
+[
+    {
+        "name": "Plain bagel", 
+        "description":"The plain bagel does not include any additional toppings besides an egg or starch-wash for color.", 
+        "price":"65 Kč",
+        "image": "./img/plain-bagel.jpeg"
+    },
+        {
+        "name": "Egg bagel", 
+        "description":" This humble ingredient can actually elevate the flavor, texture, and color of a plain bagel. ",
+        "price": "70 Kč",
+        "image": "./img/egg-bagel.jpeg"
+    },
+        {
+        "name": "Sourdough bagel", 
+        "description": "Sourdough bagels have a much more distinct flavor than other bagels due to the use of a naturally-leavened culture of yeast and bacteria.", 
+        "price":" 65 Kč",
+        "image": "./img/sourdough-bagel.jpeg"
+    },
+        {
+        "name": "Blueberry bagel", 
+        "description":" Blueberry-flavored bagels are less-savory bagels with pockets of tangy, sweet blueberries baked inside. ", 
+        "price": "80 Kč",
+        "image": "./img/blueberry-bagel.jpeg"
+    },
+        {
+        "name": "Pumpernickel bagel", 
+        "description": "Pumpernickel is a type of flour made from the entire rye grain; the grain is usually made into sliced rye bread. Rye grain naturally has very low gluten content compared to other types of flour", 
+        "price": "75 Kč",
+        "image": "./img/pumpernickel-bagel.jpeg"
+    }
+]
