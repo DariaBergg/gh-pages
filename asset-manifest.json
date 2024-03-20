@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gh-pages/static/css/main.dd78cca2.css",
-    "main.js": "/gh-pages/static/js/main.64cb7ce3.js",
-    "static/js/453.ed3810f9.chunk.js": "/gh-pages/static/js/453.ed3810f9.chunk.js",
+    "main.js": "/gh-pages/static/js/main.7678eea6.js",
+    "static/js/453.da93611c.chunk.js": "/gh-pages/static/js/453.da93611c.chunk.js",
     "static/media/misterBacon.png": "/gh-pages/static/media/misterBacon.ce77fb6346a96af45b8c.png",
     "static/media/mistercheese.png": "/gh-pages/static/media/mistercheese.83255365f29effbfd25a.png",
     "static/media/mistervegan.png": "/gh-pages/static/media/mistervegan.6e020aee7b2dc904c45d.png",
@@ -26,11 +26,11 @@
     "static/media/shopping-bag.png": "/gh-pages/static/media/shopping-bag.9595e27198cab2c971cb.png",
     "index.html": "/gh-pages/index.html",
     "main.dd78cca2.css.map": "/gh-pages/static/css/main.dd78cca2.css.map",
-    "main.64cb7ce3.js.map": "/gh-pages/static/js/main.64cb7ce3.js.map",
-    "453.ed3810f9.chunk.js.map": "/gh-pages/static/js/453.ed3810f9.chunk.js.map"
+    "main.7678eea6.js.map": "/gh-pages/static/js/main.7678eea6.js.map",
+    "453.da93611c.chunk.js.map": "/gh-pages/static/js/453.da93611c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd78cca2.css",
-    "static/js/main.64cb7ce3.js"
+    "static/js/main.7678eea6.js"
   ]
 }
